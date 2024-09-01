@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Asp.Net Core\\ASP.NET API CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|e:\\asp.net core\\asp.net api crud\\asp.net api crud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|solutionrelative:asp.net api crud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|e:\\asp.net core\\asp.net api crud\\asp.net api crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|solutionrelative:asp.net api crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|e:\\asp.net core\\asp.net api crud\\asp.net api crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|solutionrelative:asp.net api crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|e:\\asp.net core\\asp.net api crud\\asp.net api crud\\models\\databasefirstef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075A390D-EEAA-4CB4-996E-289C7195EB0D}|ASP.NET API CRUD\\ASP.NET API CRUD.csproj|solutionrelative:asp.net api crud\\models\\databasefirstef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Models\\Quad_TestContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASP.NET API CRUD\\Models\\Quad_TestContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NET API CRUD\\appsettings.json",
+              "ToolTip": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\appsettings.json",
+              "RelativeToolTip": "ASP.NET API CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T14:07:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.NET API CRUD\\Program.cs",
+              "ToolTip": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Program.cs",
+              "RelativeToolTip": "ASP.NET API CRUD\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:07:43.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseFirstEF.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Models\\DataBaseFirstEF.cs",
+              "RelativeDocumentMoniker": "ASP.NET API CRUD\\Models\\DataBaseFirstEF.cs",
+              "ToolTip": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Models\\DataBaseFirstEF.cs",
+              "RelativeToolTip": "ASP.NET API CRUD\\Models\\DataBaseFirstEF.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:06:18.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quad_TestContext.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Models\\Quad_TestContext.cs",
+              "RelativeDocumentMoniker": "ASP.NET API CRUD\\Models\\Quad_TestContext.cs",
+              "ToolTip": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Models\\Quad_TestContext.cs",
+              "RelativeToolTip": "ASP.NET API CRUD\\Models\\Quad_TestContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:04:44.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "ASP.NET API CRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "E:\\Asp.Net Core\\ASP.NET API CRUD\\ASP.NET API CRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "ASP.NET API CRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:54:25.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
